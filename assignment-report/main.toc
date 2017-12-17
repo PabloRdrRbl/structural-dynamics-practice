@@ -1,0 +1,17 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Beam and Bar Finite Element Model}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Building the Finite Element Model}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Checking the Model}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Numerical Methods for Dynamic Analysis}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Free Vibration}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Transient Analysis}{5}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Implicit Newmark Scheme}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Explicit Newmark Scheme}{5}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {A}Hangar Structure Description}{8}{appendix.A}
+\contentsline {section}{\numberline {B}Building the Finite Element Model Code}{9}{appendix.B}
+\contentsline {section}{\numberline {C}Model Check Code}{9}{appendix.C}
+\contentsline {section}{\numberline {D}Inverse Iteration Method with Orthogonal Deflation Code}{9}{appendix.D}
+\contentsline {section}{\numberline {E}Transient Force Code}{11}{appendix.E}
+\contentsline {section}{\numberline {F}Implicit Newmark Scheme Code}{12}{appendix.F}
+\contentsline {section}{\numberline {G}Explicit Newmark Scheme Code}{14}{appendix.G}
+\contentsline {section}{References}{17}{lstnumber.-7.96}
